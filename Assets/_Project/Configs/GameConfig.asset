@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa1a6f1c963640df8a6af88f01e6bcb5, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  CubePrefab: {fileID: 9063882600198821379, guid: b1ac731f9b7867a47b814244f572a3c7, type: 3}
+  CubeColors:
+  - {r: 0.6792453, g: 0.13136347, b: 0.13136347, a: 1}
+  - {r: 0.8867924, g: 0.8487548, b: 0.11294055, a: 1}
+  - {r: 0.11213954, g: 0.6792453, b: 0.18680914, a: 1}
+  - {r: 0.6315867, g: 0.09380562, b: 0.6415094, a: 1}
+  - {r: 0.17221434, g: 0.8113208, b: 0.7717897, a: 1}
+  InitialCubeCount: 20
+  MaxTowerHeight: 8
+  MaxOffset: 0.5
+  CubeSize: 100
+  ScrollSensitivity: 15
